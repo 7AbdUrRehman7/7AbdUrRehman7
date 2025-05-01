@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7AbdUrRehman7
 - 👀 I’m interested in Aviation, Space, Sports and much more cool stuff.
-- 🌱 I’m currently learning Python, Java, C, Statistics
+- 🌱 I’m currently learning Theory of Computation, C, and Statistics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
