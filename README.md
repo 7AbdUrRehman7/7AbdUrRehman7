@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7AbdUrRehman7
 - 👀 I’m interested in Aviation, Space, Sports, Cars, Aircrafts, Missiles, Bombs 😉, Guns ... AND THE LIST GOES ON!
-- 🌱 I’m currently learning Theory of Computation, C, JavaScript/Typescript, MangoDB, n8n.
+- 🌱 I’m currently learning n8n, Theory of Computation, JavaScript/Typescript, MangoDB.
 - 💞️ I’m looking to collaborate on software projects related to aerospace, data visualization, or web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-67aa302a9/) OR [Email](abdurrehman.abd@mail.utoronto.ca)
 - 😄 Pronouns: He/Him
